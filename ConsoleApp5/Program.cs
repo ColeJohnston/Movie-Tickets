@@ -165,9 +165,7 @@ namespace Tickets
                     k++;
                 }
 
-                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("---------------------------");
-                Console.ForegroundColor = ConsoleColor.White;
 
                 Console.WriteLine("Which Movie would you like?");
                 Console.WriteLine("Please Type 1, 2, or 3");
