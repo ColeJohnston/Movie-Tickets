@@ -164,7 +164,6 @@ namespace Tickets
 
                     k++;
                 }
-                //change
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("---------------------------");
                 Console.ForegroundColor = ConsoleColor.White;
