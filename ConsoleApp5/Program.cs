@@ -114,15 +114,6 @@ namespace Tickets
 
     public class Program
     {
-        static void CheckRemaining(int x)
-        {
-            Tickets[,] Details = new Tickets[10, 3];
-
-
-        }
-        static void Initialize()
-        {
-        }
         static void Main(string[] args)
         {
 
